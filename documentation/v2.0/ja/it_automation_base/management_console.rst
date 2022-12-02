@@ -137,7 +137,7 @@ ITA管理コンソールについて
 - | **登録**
   | 各メニューに対して、新規に項目を登録します。
   | 登録内容は各メニューによって異なりますので、各利用手順マニュアルを参照して下さい。
-  | エクセル形式、JSON形式のファイルを使用する一括登録については「\ :ref:`全件ダウンロード・ファイル一括登録<Download_all_and_edit_file_uploads>`\ 」をご確認下さい。
+  | エクセル形式、JSON形式のファイルを使用する一括登録については「\ :ref:`management_console_download_all_and_edit_file_uploads`\ 」をご確認下さい。
 
   .. figure:: ./management_console/登録操作.gif
      :alt: メインメニュー
@@ -201,7 +201,7 @@ ITA管理コンソールについて
   #. | JSONダウンロード
      | 検索条件に一致した項目の一覧をJSON形式でダウンロード出来ます。
 
-  .. note:: | 表示フィルタからダウンロードしたExcel形式ファイルとJSON形式ファイルは「\ :ref:`全件ダウンロード・ファイル一括登録<Download_all_and_edit_file_uploads>`\ 」で使用することが出来ます。
+  .. note:: | 表示フィルタからダウンロードしたExcel形式ファイルとJSON形式ファイルは「\ :ref:`全件ダウンロード・ファイル一括登録<management_console_download_all_and_edit_file_uploads>`\ 」で使用することが出来ます。
 
 - | **編集**
   | 登録されている項目の更新を行います。
@@ -321,7 +321,7 @@ ITA管理コンソールについて
 
      パラメータシート「ぱらむ001」の変更履歴
 
-.. _Download_all_and_edit_file_uploads:
+.. _management_console_download_all_and_edit_file_uploads:
 全件ダウンロード・ファイル一括登録
 **********************************
 | 各メニュー画面に登録されている情報を一括してエクセル形式またはJSON形式でダウンロードすることが出来ます。
